@@ -1,6 +1,6 @@
-package com.example.app.controllers;
+package com.example.app.controller;
 
-import com.example.app.models.HelloModel;
+import com.example.app.model.HelloModel;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

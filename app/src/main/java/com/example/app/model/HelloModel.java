@@ -1,4 +1,4 @@
-package com.example.app.models;
+package com.example.app.model;
 
 public class HelloModel {
     private String init;
